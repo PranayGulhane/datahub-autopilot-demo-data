@@ -15,11 +15,11 @@
 
 ## What changed
 
-The 'order_total' column has been renamed to 'order_amount' in the raw.orders dataset. This change affects any downstream consumers that reference 'order_total' by name, including dashboards, queries, and pipelines. These consumers will need to be updated to use the new column name to avoid errors.
+The 'order_total' column in the 'raw.orders' dataset has been renamed to 'order_amount'. This change will break any downstream consumers, such as dashboards, queries, or pipelines, that explicitly select this column by its old name, even if the catalog indicates the change is structurally compatible.
 
 ## Why this is critical
 
-This schema change is critical due to its impact on 8 downstream assets, with 3 tier1 assets that are business-critical. The highest criticality tier affected, tier1, indicates that this change poses a significant risk to business operations. If unmanaged, it could lead to data inconsistencies and disruptions across multiple business-critical systems.
+This schema change is critical due to its impact on 8 downstream assets, with 3 tier1 assets affected, which are business-critical. If not properly managed, this change could lead to significant data inconsistencies and disruptions in business-critical systems, ultimately affecting revenue and customer relationships.
 
 ## Downstream blast radius (8 assets)
 
@@ -55,7 +55,7 @@ Impacted field(s): `order_total`
 
 ## Remediation plan (6 steps)
 
-A critical schema migration for the raw.orders dataset is required to address breaking changes, impacting critical downstream assets staging.orders_enriched and marts.order_facts. Immediate action is needed to notify affected owners and update dependent consumers to prevent data inconsistencies and potential business disruptions. Failure to address this change will result in data integrity issues and potential revenue loss.
+A critical schema migration for the raw.orders dataset is required due to a breaking change that affects two downstream assets, staging.orders_enriched and marts.order_facts. If not addressed, this change will cause data inconsistencies and potential business losses. The first step is to notify the owners of the affected assets.
 
 ### 1. Notify owners of the 8 affected downstream asset(s)
 
@@ -127,10 +127,10 @@ Lower-environment test data regenerated against the **new** schema and validated
 | Column | Inferred meaning |
 |---|---|
 | `currency` | CURRENCY_CODE |
-| `order_id` | IDENTIFIER |
+| `order_id` | GENERIC_NUMBER |
 | `created_at` | TIMESTAMP |
 | `updated_at` | TIMESTAMP |
-| `customer_id` | IDENTIFIER |
+| `customer_id` | GENERIC_NUMBER |
 | `order_amount` | CURRENCY_AMOUNT |
 | `order_status` | ORDER_STATUS |
 
