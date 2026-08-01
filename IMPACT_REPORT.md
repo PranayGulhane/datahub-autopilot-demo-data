@@ -15,11 +15,11 @@
 
 ## What changed
 
-The 'order_total' column in the 'raw.orders' dataset has been renamed to 'order_amount'. This change will break any downstream consumers that explicitly select the 'order_total' column by name, such as dashboards, queries, or pipelines, as they will no longer be able to access the data. Any references to 'order_total' will need to be updated to 'order_amount' to continue functioning correctly.
+The `order_total` column has been renamed to `order_amount` in the `raw.orders` dataset. This change will break any downstream consumers that explicitly select the column by its old name, such as dashboards, queries, or pipelines. Any consumers relying on the old column name will need to be updated to reference the new name.
 
 ## Why this is critical
 
-A critical schema change to raw.orders warrants this severity due to its impact on 8 downstream assets, with 3 business-critical tier1 assets affected. This includes dashboards.revenue_overview, staging.orders_enriched, and marts.revenue_daily, which are all critical to the business. If this change is not properly managed, it could lead to significant data inconsistencies and disruptions to revenue reporting, ultimately affecting business operations.
+The schema change to raw.orders is classified as breaking, impacting 8 downstream assets across 3 criticality tiers. With 3 business-critical assets (tier1) affected, this change poses a significant risk of disrupting core business operations, potentially leading to revenue loss and damage to customer relationships.
 
 ## Downstream blast radius (8 assets)
 
@@ -55,7 +55,7 @@ Impacted field(s): `order_total`
 
 ## Remediation plan (6 steps)
 
-We're migrating the raw.orders dataset, a critical change that will break two key consumers, staging.orders_enriched and marts.order_facts, and requires immediate attention to prevent data inconsistencies and potential revenue loss. The first step is to notify the owners of the affected assets, and if this is skipped, downstream data will be inaccurate, impacting business decisions and ultimately, our bottom line.
+A critical schema migration for the raw.orders dataset is required to address breaking changes, impacting 2 confirmed consumers (staging.orders_enriched and marts.order_facts) and potentially 6 downstream assets. Failure to notify owners of the affected assets and update the consumers referencing order_total will result in data inconsistencies and errors. The first critical step is to notify the owners of the 8 affected downstream assets to prevent data disruptions.
 
 ### 1. Notify owners of the 8 affected downstream asset(s)
 
