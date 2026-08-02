@@ -1,0 +1,201 @@
+product_id,sku,name,category,price,in_stock,created_at,weight_kg
+8028,SKU-HT29-3511,Premium Yoga Mat,Toys & Games,2340.93,False,2026-04-09 22:53:23,23.36
+8029,SKU-BS74-4073,Premium Backpack,Home & Kitchen,1919.15,True,2025-09-09 17:59:33,48.67
+8030,SKU-UT21-8510,Compact Desk Lamp,Apparel,352.71,True,2025-06-13 20:14:53,7.75
+8031,SKU-GN03-7691,Compact Backpack,,735.46,True,2025-01-18 20:23:48,1.04
+8032,SKU-CD87-6047,Organic Backpack,Apparel,618.48,False,2025-10-01 17:06:27,19.33
+8033,SKU-AK62-1633,Adjustable Coffee Grinder,Home & Kitchen,1834.62,False,2025-03-03 17:39:40,41.28
+8034,SKU-GD01-7094,Wireless Desk Lamp,Toys & Games,166.51,False,2026-07-02 10:47:09,19.78
+8035,SKU-BI40-6434,Organic Water Bottle,Electronics,339.6,False,2026-03-27 14:18:13,27.75
+8036,SKU-DN14-2240,Portable Desk Lamp,Office Supplies,619.72,True,2026-06-12 08:10:37,31.01
+8037,SKU-NK34-8848,Adjustable Water Bottle,Sports & Outdoors,1631.78,True,2025-09-29 21:16:41,45.84
+8038,SKU-OL82-6747,Portable Notebook,Beauty,2394.43,False,2025-04-14 01:32:28,17.28
+8039,SKU-UY01-1661,Adjustable Desk Lamp,Electronics,835.81,False,2024-12-02 03:05:23,
+8040,SKU-VV96-8712,Insulated Backpack,Grocery,629.36,False,2025-03-06 02:42:05,23.6
+8041,SKU-DE95-2265,Compact Desk Lamp,Office Supplies,1913.3,False,2025-01-06 12:53:51,
+8042,SKU-LA01-4066,Wireless Backpack,Beauty,682.9,False,2025-09-01 15:46:30,28.52
+8043,SKU-KF67-7727,Adjustable Desk Lamp,Sports & Outdoors,1839.85,False,2024-08-06 19:50:44,7.51
+8044,SKU-CZ80-7584,Premium Coffee Grinder,Grocery,483.72,True,2026-01-14 07:24:10,17.17
+8045,SKU-QH40-4094,Organic Headphones,Home & Kitchen,121.63,False,2025-02-14 04:26:11,45.77
+8046,SKU-SB82-9255,Insulated Desk Lamp,Home & Kitchen,1251.54,False,2025-03-13 00:18:25,23.93
+8047,SKU-XC69-4833,Compact Water Bottle,Apparel,859.11,False,2025-09-19 02:25:20,45.48
+8048,SKU-NR30-7334,Portable Yoga Mat,Home & Kitchen,1850.13,True,2025-08-07 23:38:42,24.83
+8049,SKU-HT10-3511,Organic Headphones,Apparel,677.73,False,2025-07-13 17:11:27,
+8050,SKU-AY20-0212,Compact Backpack,Sports & Outdoors,1197.49,True,2025-07-21 06:02:24,15.83
+8051,SKU-DL84-8097,Adjustable Headphones,Home & Kitchen,843.95,False,2026-02-01 01:03:15,
+8052,SKU-AI14-5380,Compact Headphones,Apparel,137.52,True,2024-08-26 18:57:17,28.57
+8053,SKU-SU45-8338,Organic Water Bottle,Apparel,2459.22,False,2025-08-07 08:19:53,35.16
+8054,SKU-HW75-5826,Compact Headphones,Beauty,1955.05,False,2026-02-25 07:16:53,34.05
+8055,SKU-SU56-9412,Adjustable Water Bottle,Office Supplies,2187.92,False,2025-03-20 09:20:02,1.72
+8056,SKU-AR82-9160,Premium Desk Lamp,Beauty,151.57,False,2025-07-08 01:38:35,45.3
+8057,SKU-OU73-3137,Insulated Desk Lamp,Toys & Games,441.34,False,2025-08-17 14:58:13,47.21
+8058,SKU-CF95-5147,Compact Headphones,Office Supplies,1358.58,False,2025-01-12 20:33:25,32.31
+8059,SKU-OK98-8495,Adjustable Desk Lamp,Beauty,1439.36,False,2025-03-04 16:40:17,39.04
+8060,SKU-LC47-0263,Adjustable Yoga Mat,Apparel,2492.0,True,2025-12-15 13:06:51,45.45
+8061,SKU-DT71-1092,Wireless Notebook,Sports & Outdoors,1181.71,False,2025-01-08 23:03:50,22.09
+8062,SKU-BS71-8731,Compact Headphones,Sports & Outdoors,321.06,True,2025-09-07 17:47:28,11.52
+8063,SKU-PQ64-0779,Portable Backpack,Home & Kitchen,547.38,True,2026-05-22 06:40:19,46.16
+8064,SKU-JT52-6417,Compact Headphones,Home & Kitchen,1844.63,False,2026-04-25 12:04:30,23.38
+8065,SKU-VN04-4270,Adjustable Backpack,Office Supplies,1609.73,True,2024-11-10 05:26:57,5.61
+8066,SKU-JI19-5124,Premium Coffee Grinder,Home & Kitchen,432.31,False,2025-01-15 11:51:05,18.39
+8067,SKU-FN19-5809,Wireless Desk Lamp,Home & Kitchen,2057.67,False,2024-11-25 19:51:34,5.97
+8068,SKU-WP40-6794,Insulated Desk Lamp,Grocery,1745.83,False,2025-09-24 10:03:35,10.79
+8069,SKU-LN61-1218,Wireless Coffee Grinder,Toys & Games,2148.03,True,2025-01-03 22:19:37,36.59
+8070,SKU-SR19-2928,Adjustable Water Bottle,,745.01,False,2024-09-19 05:28:11,32.76
+8071,SKU-PH74-5742,Premium Backpack,Sports & Outdoors,1013.8,True,2025-05-17 21:53:38,0.76
+8072,SKU-IA31-1711,Compact Headphones,Toys & Games,850.35,True,2025-09-29 18:14:59,13.78
+8073,SKU-RB55-3529,Insulated Water Bottle,Apparel,1605.2,True,2025-06-22 16:36:55,43.22
+8074,SKU-ZG42-5308,Wireless Notebook,Beauty,765.27,True,2024-12-23 05:53:29,49.52
+8075,SKU-TL36-3878,Insulated Yoga Mat,Grocery,796.88,True,2024-10-09 18:25:58,7.13
+8076,SKU-AO76-7350,Adjustable Coffee Grinder,Beauty,165.22,True,2025-12-25 19:31:16,24.76
+8077,SKU-FB87-3064,Wireless Yoga Mat,Apparel,1346.57,True,2024-08-24 19:16:00,1.39
+8078,SKU-PE63-5140,Insulated Water Bottle,Toys & Games,2103.95,True,2025-06-30 11:14:56,
+8079,SKU-AN94-7431,Insulated Water Bottle,Sports & Outdoors,931.55,True,2025-12-13 06:07:52,31.56
+8080,SKU-WG10-1205,Organic Headphones,Electronics,269.91,False,2026-03-10 22:47:30,
+8081,SKU-LX93-3882,Adjustable Backpack,Grocery,217.18,False,2024-10-19 00:46:37,43.08
+8082,SKU-BH17-1398,Organic Water Bottle,Sports & Outdoors,921.73,True,2024-11-01 06:18:25,18.57
+8083,SKU-YK93-5576,Premium Notebook,Grocery,2481.0,True,2025-01-08 15:31:52,3.07
+8084,SKU-CM23-8610,Compact Desk Lamp,Sports & Outdoors,1714.24,True,2024-11-26 18:24:15,35.28
+8085,SKU-NM93-7181,Compact Headphones,Office Supplies,1343.82,False,2025-05-08 14:52:20,27.09
+8086,SKU-YW33-4297,Organic Desk Lamp,,1770.84,False,2025-04-16 16:58:07,19.59
+8087,SKU-DB21-8357,Adjustable Notebook,Office Supplies,2318.01,True,2026-05-12 03:01:12,22.58
+8088,SKU-ES35-3148,Organic Coffee Grinder,Grocery,2360.07,True,2025-08-22 08:38:11,
+8089,SKU-BS51-3220,Insulated Headphones,,212.9,False,2025-08-03 10:31:45,2.22
+8090,SKU-NS60-6500,Insulated Headphones,Sports & Outdoors,634.86,True,2025-09-29 23:28:14,37.57
+8091,SKU-IJ64-4642,Compact Water Bottle,Toys & Games,1101.45,True,2025-10-02 09:56:31,8.13
+8092,SKU-BI04-8070,Wireless Notebook,Electronics,1860.46,False,2025-12-24 13:36:39,19.71
+8093,SKU-LV61-4366,Wireless Coffee Grinder,Electronics,2242.74,True,2025-12-04 15:32:38,20.4
+8094,SKU-MI32-9964,Insulated Backpack,Office Supplies,1283.01,False,2025-11-17 10:32:11,6.0
+8095,SKU-ZU82-8365,Premium Coffee Grinder,Sports & Outdoors,128.16,False,2026-05-08 16:26:38,20.68
+8096,SKU-XK45-6654,Premium Headphones,Electronics,272.67,True,2025-06-10 14:11:33,48.79
+8097,SKU-SN14-7514,Wireless Desk Lamp,Grocery,2321.66,False,2026-01-03 19:25:16,28.54
+8098,SKU-XG75-3161,Compact Desk Lamp,Beauty,1337.44,False,2025-07-24 09:21:44,2.74
+8099,SKU-GL60-8789,Compact Coffee Grinder,Home & Kitchen,1158.52,False,2024-10-31 04:34:48,26.88
+8100,SKU-EO51-1240,Wireless Desk Lamp,Grocery,399.86,True,2025-09-14 18:22:56,33.02
+8101,SKU-OP63-7775,Organic Headphones,Grocery,732.72,True,2024-08-11 16:49:03,24.16
+8102,SKU-FK84-9962,Premium Desk Lamp,Sports & Outdoors,258.0,False,2026-07-28 05:50:36,19.35
+8103,SKU-LD15-4697,Organic Headphones,Toys & Games,2208.56,False,2025-12-14 23:45:22,12.12
+8104,SKU-YH15-4818,Organic Headphones,Home & Kitchen,911.1,False,2024-09-21 10:33:23,25.43
+8105,SKU-SE43-4021,Portable Water Bottle,Beauty,987.99,False,2026-05-15 00:05:16,1.16
+8106,SKU-XR34-6892,Portable Headphones,Electronics,1107.18,True,2025-06-04 04:59:52,10.83
+8107,SKU-UU09-8146,Portable Yoga Mat,Home & Kitchen,1895.5,True,2026-08-02 03:53:45,38.72
+8108,SKU-RB81-3009,Organic Coffee Grinder,Beauty,1122.5,False,2026-02-11 19:43:02,39.74
+8109,SKU-VM50-5958,Insulated Desk Lamp,Office Supplies,561.34,False,2025-07-16 22:43:17,47.49
+8110,SKU-PI44-4840,Organic Backpack,Beauty,406.62,True,2024-09-16 15:49:05,32.46
+8111,SKU-ZT93-7793,Portable Yoga Mat,Sports & Outdoors,1349.61,True,2024-12-12 22:19:11,37.6
+8112,SKU-PU72-6878,Wireless Headphones,Home & Kitchen,918.28,True,2025-01-09 22:09:49,0.58
+8113,SKU-DV30-7787,Portable Headphones,Grocery,2354.61,False,2026-05-26 13:37:23,28.12
+8114,SKU-WL36-1146,Adjustable Backpack,Home & Kitchen,1504.06,False,2025-10-14 18:42:47,
+8115,SKU-QC37-2183,Compact Backpack,Electronics,1261.77,True,2026-07-23 17:42:57,3.09
+8116,SKU-EV82-0621,Adjustable Desk Lamp,Home & Kitchen,1506.09,True,2026-05-24 04:35:08,46.05
+8117,SKU-BP53-3474,Adjustable Yoga Mat,Apparel,1166.5,False,2026-04-11 22:03:58,19.78
+8118,SKU-QP28-0562,Adjustable Coffee Grinder,Electronics,1433.55,False,2025-07-14 21:55:02,30.0
+8119,SKU-TC14-4998,Adjustable Backpack,Toys & Games,1798.89,True,2025-02-01 12:19:14,12.46
+8120,SKU-YG75-7561,Adjustable Desk Lamp,Sports & Outdoors,540.41,False,2026-01-14 16:05:40,30.97
+8121,SKU-VY31-1776,Insulated Notebook,Sports & Outdoors,854.24,False,2025-09-09 04:57:37,40.93
+8122,SKU-JU16-0196,Premium Yoga Mat,Apparel,1363.68,False,2025-05-12 16:16:30,20.45
+8123,SKU-OT97-7139,Portable Water Bottle,Home & Kitchen,2310.62,True,2024-12-13 15:10:38,4.5
+8124,SKU-JD83-6790,Adjustable Coffee Grinder,Office Supplies,1780.92,False,2025-01-21 05:33:07,1.42
+8125,SKU-VK99-0482,Wireless Coffee Grinder,Home & Kitchen,938.17,True,2025-04-24 16:30:13,30.38
+8126,SKU-RF49-7945,Wireless Backpack,Sports & Outdoors,412.61,False,2026-04-01 06:45:13,4.68
+8127,SKU-JY71-7081,Organic Headphones,Grocery,1743.7,False,2025-02-02 08:14:58,29.65
+8128,SKU-IY37-0837,Adjustable Yoga Mat,Sports & Outdoors,376.26,True,2025-09-08 08:24:59,11.99
+8129,SKU-PI48-5255,Wireless Yoga Mat,Toys & Games,400.9,False,2025-06-30 03:15:42,16.06
+8130,SKU-UL20-6289,Premium Coffee Grinder,Toys & Games,904.41,False,2025-09-30 02:34:05,16.64
+8131,SKU-HQ92-9234,Portable Water Bottle,Office Supplies,580.62,False,2024-08-08 21:01:17,
+8132,SKU-RU42-5493,Wireless Desk Lamp,Grocery,313.44,False,2024-10-22 01:26:05,21.39
+8133,SKU-PP51-2293,Premium Desk Lamp,Grocery,1330.22,False,2026-04-26 10:36:31,24.51
+8134,SKU-WT08-5343,Portable Headphones,Apparel,509.19,True,2025-04-17 19:51:22,41.74
+8135,SKU-AV43-3057,Portable Water Bottle,Sports & Outdoors,1286.39,True,2026-02-19 01:07:00,4.17
+8136,SKU-UD74-1785,Premium Backpack,Grocery,647.86,True,2025-06-04 09:03:45,
+8137,SKU-IK32-6022,Insulated Backpack,Home & Kitchen,492.36,False,2024-12-01 03:43:25,18.95
+8138,SKU-NV06-7929,Compact Desk Lamp,Electronics,2308.65,False,2026-02-12 01:10:09,10.78
+8139,SKU-SI39-2139,Premium Backpack,Office Supplies,1412.84,False,2026-02-08 06:49:31,47.59
+8140,SKU-UM69-5645,Compact Desk Lamp,Sports & Outdoors,139.57,True,2026-06-26 04:26:28,
+8141,SKU-MF18-5851,Compact Notebook,Office Supplies,1203.4,True,2024-12-07 04:45:55,24.01
+8142,SKU-GL35-4181,Adjustable Notebook,Home & Kitchen,2128.55,True,2026-07-16 13:59:08,22.37
+8143,SKU-RG19-4726,Premium Desk Lamp,Home & Kitchen,1260.92,True,2025-02-15 16:31:28,43.81
+8144,SKU-TS01-3872,Compact Water Bottle,Sports & Outdoors,1336.38,True,2026-01-28 21:54:58,22.83
+8145,SKU-ZL51-2454,Compact Coffee Grinder,Sports & Outdoors,2330.92,True,2026-07-29 22:56:37,47.69
+8146,SKU-VX77-3628,Premium Headphones,Sports & Outdoors,493.16,False,2026-03-27 04:04:51,13.89
+8147,SKU-BD49-7889,Portable Yoga Mat,Beauty,2263.23,True,2025-06-27 06:10:50,
+8148,SKU-CI92-5355,Portable Coffee Grinder,Apparel,2319.56,True,2026-05-29 12:13:01,23.58
+8149,SKU-OK97-5262,Portable Backpack,Office Supplies,1691.0,True,2024-11-13 04:49:53,22.18
+8150,SKU-HD56-3116,Insulated Desk Lamp,Apparel,620.4,True,2025-08-12 21:45:25,26.7
+8151,SKU-GH38-2403,Insulated Headphones,Home & Kitchen,807.26,False,2025-10-27 18:55:26,13.72
+8152,SKU-GJ98-0670,Organic Notebook,Sports & Outdoors,2252.56,True,2025-09-01 22:32:50,31.83
+8153,SKU-RN88-3358,Portable Yoga Mat,Toys & Games,1761.78,False,2026-04-28 11:58:41,46.67
+8154,SKU-EJ36-5065,Compact Backpack,Office Supplies,1199.31,False,2025-05-25 09:15:23,2.89
+8155,SKU-CX88-7499,Portable Backpack,Electronics,2481.15,True,2026-04-27 23:27:09,3.86
+8156,SKU-JL74-2125,Premium Notebook,Grocery,2394.62,True,2026-04-05 13:28:25,44.84
+8157,SKU-PU77-6501,Adjustable Notebook,Sports & Outdoors,1346.24,False,2025-02-02 01:23:04,38.29
+8158,SKU-NJ76-0777,Insulated Desk Lamp,Toys & Games,1120.23,True,2025-04-16 21:07:17,20.18
+8159,SKU-KH11-4951,Compact Yoga Mat,Sports & Outdoors,1564.4,False,2026-07-07 00:02:11,42.54
+8160,SKU-LR52-7563,Wireless Backpack,Home & Kitchen,1492.29,False,2025-12-12 05:08:30,1.17
+8161,SKU-YJ20-7258,Insulated Coffee Grinder,Beauty,1120.53,True,2026-03-30 06:59:24,45.83
+8162,SKU-CI52-7312,Premium Water Bottle,Office Supplies,1247.51,False,2026-05-11 00:28:05,32.97
+8163,SKU-IM01-3583,Portable Coffee Grinder,Beauty,639.37,True,2026-01-27 06:52:13,14.16
+8164,SKU-WC97-6776,Portable Yoga Mat,Toys & Games,419.86,False,2025-01-02 11:24:01,32.07
+8165,SKU-GM31-8400,Adjustable Backpack,Home & Kitchen,1967.4,True,2026-07-25 08:02:22,4.61
+8166,SKU-PE85-8952,Organic Backpack,Sports & Outdoors,839.39,False,2025-12-25 04:00:59,5.51
+8167,SKU-AX68-5670,Wireless Coffee Grinder,Apparel,2083.17,False,2025-10-12 03:15:39,
+8168,SKU-YP64-5485,Adjustable Coffee Grinder,Apparel,1722.01,False,2025-07-26 07:39:16,48.56
+8169,SKU-HJ98-5697,Insulated Water Bottle,Electronics,1212.78,False,2025-03-01 10:04:14,12.34
+8170,SKU-XH68-2534,Organic Desk Lamp,Grocery,1200.11,True,2025-09-22 03:47:50,29.83
+8171,SKU-NW45-9666,Portable Coffee Grinder,,983.83,True,2024-09-17 08:30:29,40.78
+8172,SKU-LE24-8007,Wireless Headphones,Electronics,77.65,False,2025-08-23 08:32:30,45.04
+8173,SKU-XL66-1582,Insulated Notebook,Grocery,1634.3,False,2025-10-11 14:17:38,37.18
+8174,SKU-HA29-0222,Wireless Desk Lamp,Toys & Games,1829.38,True,2025-06-21 22:50:09,44.44
+8175,SKU-WU64-3931,Premium Coffee Grinder,Electronics,998.87,False,2025-09-07 01:54:04,36.39
+8176,SKU-KW71-3738,Wireless Yoga Mat,Electronics,1979.44,False,2026-04-19 23:41:46,39.01
+8177,SKU-NE25-8346,Premium Coffee Grinder,Grocery,2021.87,False,2025-03-29 00:54:37,35.16
+8178,SKU-FZ96-4318,Portable Yoga Mat,Beauty,1833.76,True,2026-01-22 21:56:00,33.59
+8179,SKU-RH86-5105,Compact Coffee Grinder,Beauty,1152.43,False,2025-01-17 19:57:39,4.97
+8180,SKU-CH03-1696,Adjustable Coffee Grinder,Grocery,2288.74,False,2025-07-25 19:22:42,30.32
+8181,SKU-MQ85-5826,Adjustable Headphones,Beauty,2244.04,False,2025-12-12 23:36:16,29.65
+8182,SKU-GT62-5177,Compact Desk Lamp,Apparel,2234.38,True,2025-01-18 19:42:14,
+8183,SKU-EM56-4941,Wireless Notebook,Apparel,169.69,True,2024-08-05 06:04:47,17.89
+8184,SKU-JI19-5945,Organic Coffee Grinder,Electronics,746.63,True,2024-08-22 07:41:52,23.95
+8185,SKU-ZJ01-2335,Premium Water Bottle,Beauty,2206.18,False,2024-08-31 07:11:06,41.73
+8186,SKU-KB89-0034,Compact Water Bottle,Electronics,1990.69,True,2025-04-28 23:05:44,8.6
+8187,SKU-ES96-3152,Organic Water Bottle,Office Supplies,2359.96,True,2025-08-19 12:07:11,30.62
+8188,SKU-BY04-1961,Adjustable Yoga Mat,,1726.86,True,2026-06-03 14:54:12,43.96
+8189,SKU-EW64-7290,Wireless Backpack,Electronics,257.01,False,2025-01-28 18:17:50,19.93
+8190,SKU-LB08-7867,Compact Backpack,Apparel,1434.77,False,2024-09-10 23:24:02,42.42
+8191,SKU-ZN79-9410,Organic Headphones,Grocery,911.71,True,2026-07-07 21:20:31,
+8192,SKU-FA71-1898,Compact Yoga Mat,Home & Kitchen,1225.73,False,2025-07-13 12:57:47,38.83
+8193,SKU-WH79-8345,Adjustable Yoga Mat,Beauty,946.97,False,2024-10-09 17:12:51,35.48
+8194,SKU-UR05-5478,Insulated Backpack,Sports & Outdoors,461.25,True,2024-08-19 13:46:54,47.64
+8195,SKU-JC72-7562,Insulated Backpack,Grocery,1697.7,False,2026-05-31 13:46:03,4.51
+8196,SKU-MR61-6846,Premium Yoga Mat,Grocery,2228.21,False,2024-08-12 02:46:44,20.28
+8197,SKU-CY97-8234,Wireless Coffee Grinder,Sports & Outdoors,332.77,False,2025-08-30 11:31:50,
+8198,SKU-DL28-8956,Organic Notebook,Apparel,1885.63,False,2024-12-01 11:43:12,21.62
+8199,SKU-GR59-4431,Portable Coffee Grinder,Grocery,1112.38,False,2025-02-10 14:56:34,7.71
+8200,SKU-YN76-5290,Compact Coffee Grinder,Beauty,351.18,False,2025-04-17 11:40:24,35.87
+8201,SKU-WM36-5809,Premium Headphones,Apparel,1406.65,False,2025-10-05 00:38:33,8.75
+8202,SKU-WV67-6982,Premium Water Bottle,Apparel,1406.21,True,2025-05-15 22:31:59,23.3
+8203,SKU-MY80-7147,Compact Headphones,Sports & Outdoors,2337.41,False,2025-11-05 12:32:13,21.74
+8204,SKU-RS85-5093,Compact Desk Lamp,Grocery,2367.48,False,2026-01-07 11:03:28,36.37
+8205,SKU-RD09-5723,Compact Yoga Mat,Toys & Games,1147.15,False,2025-09-30 00:25:36,47.58
+8206,SKU-NO41-5211,Portable Water Bottle,Grocery,2256.26,True,2025-03-01 06:26:25,2.57
+8207,SKU-GF60-7452,Organic Backpack,Beauty,586.4,False,2025-06-15 02:10:50,14.38
+8208,SKU-AX40-0705,Adjustable Headphones,Toys & Games,232.79,False,2024-10-04 20:20:32,39.65
+8209,SKU-CQ09-1836,Compact Coffee Grinder,Grocery,84.04,True,2025-01-22 05:02:01,18.8
+8210,SKU-ZI80-7726,Insulated Headphones,Grocery,346.05,False,2025-01-26 03:06:57,33.67
+8211,SKU-HD61-6539,Premium Desk Lamp,Toys & Games,311.64,False,2024-11-03 18:25:15,
+8212,SKU-WG89-6763,Organic Coffee Grinder,Beauty,509.51,False,2025-04-03 01:53:23,15.34
+8213,SKU-PD60-3510,Portable Headphones,Toys & Games,842.43,False,2025-03-07 03:46:42,11.21
+8214,SKU-UD60-4829,Wireless Desk Lamp,Home & Kitchen,1726.43,True,2025-09-21 18:47:09,42.78
+8215,SKU-WN66-9379,Organic Headphones,Beauty,349.62,True,2025-09-06 07:20:47,6.42
+8216,SKU-GF61-0079,Insulated Water Bottle,Office Supplies,1527.56,False,2024-09-05 21:40:23,0.57
+8217,SKU-SV69-9395,Adjustable Coffee Grinder,Toys & Games,1041.14,True,2026-01-17 06:15:57,8.76
+8218,SKU-IU39-6741,Wireless Water Bottle,Home & Kitchen,1208.49,True,2026-07-10 15:27:32,2.76
+8219,SKU-EE86-4353,Organic Backpack,Beauty,2333.74,False,2026-02-20 05:10:58,45.1
+8220,SKU-RR97-1770,Compact Headphones,Beauty,1118.4,False,2025-10-30 07:04:50,24.9
+8221,SKU-RN66-7786,Insulated Coffee Grinder,Sports & Outdoors,863.7,True,2026-03-03 16:19:42,9.67
+8222,SKU-NW58-0718,Compact Backpack,Office Supplies,1811.69,False,2024-08-09 00:46:49,14.41
+8223,SKU-QA56-8072,Wireless Coffee Grinder,Toys & Games,260.65,False,2024-10-19 17:07:01,29.79
+8224,SKU-VP46-1181,Premium Headphones,Sports & Outdoors,694.72,False,2024-09-04 21:38:22,47.29
+8225,SKU-YU39-6149,Portable Desk Lamp,Home & Kitchen,1760.46,True,2025-05-01 23:55:58,35.64
+8226,SKU-LQ65-8199,Wireless Yoga Mat,Grocery,1253.61,True,2026-04-07 04:02:38,33.92
+8227,SKU-OK50-5179,Compact Coffee Grinder,Home & Kitchen,1395.19,False,2026-02-08 15:59:50,18.09
